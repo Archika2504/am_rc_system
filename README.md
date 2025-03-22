@@ -20,6 +20,4 @@ This project simulates an AM (Amplitude Modulation) radio communication system u
 
 ![Simulation Results](LtSpice_Project/Graph.png)
 
-## Credits
 
-Developed by [Ceres2805](https://github.com/Ceres2805)
